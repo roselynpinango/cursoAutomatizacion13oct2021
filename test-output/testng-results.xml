@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-13T21:09:22 ART" name="Default suite" finished-at="2021-10-13T21:09:23 ART" duration-ms="565">
+    <groups>
+    </groups>
+    <test started-at="2021-10-13T21:09:22 ART" name="Default test" finished-at="2021-10-13T21:09:23 ART" duration-ms="565">
+      <class name="pruebas.AlertTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pruebas.AlertTest@7334aada]" started-at="2021-10-13T21:09:12 ART" name="setUp" finished-at="2021-10-13T21:09:22 ART" duration-ms="10107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verAlerta4()[pri:0, instance:pruebas.AlertTest@7334aada]" started-at="2021-10-13T21:09:22 ART" name="verAlerta4" finished-at="2021-10-13T21:09:23 ART" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verAlerta4 -->
+        <test-method is-config="true" signature="cerrarNavegador()[pri:0, instance:pruebas.AlertTest@7334aada]" started-at="2021-10-13T21:09:23 ART" name="cerrarNavegador" finished-at="2021-10-13T21:09:23 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarNavegador -->
+      </class> <!-- pruebas.AlertTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
